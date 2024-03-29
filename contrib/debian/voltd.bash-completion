@@ -1,0 +1,2 @@
+contrib/voltd.bash-completion	voltd
+contrib/volt-cli.bash-completion volt-cli

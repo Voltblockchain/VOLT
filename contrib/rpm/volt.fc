@@ -1,0 +1,8 @@
+/usr/bin/volt-cli		--	gen_context(system_u:object_r:volt_exec_t,s0)
+/usr/sbin/voltd		--	gen_context(system_u:object_r:volt_exec_t,s0)
+/usr/lib(64)?/volt/voltd		--	gen_context(system_u:object_r:volt_exec_t,s0)
+
+/etc/volt(/.*)?		gen_context(system_u:object_r:volt_conf_t,s0)
+/var/lib/volt(/.*)?		gen_context(system_u:object_r:volt_var_lib_t,s0)
+
+(/var)?/run/voltd(/.*)?   gen_context(system_u:object_r:volt_var_run_t,s0)

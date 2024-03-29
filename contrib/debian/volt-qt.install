@@ -1,0 +1,6 @@
+usr/local/bin/volt-qt usr/bin
+share/pixmaps/volt32.xpm usr/share/pixmaps
+share/pixmaps/volt16.xpm usr/share/pixmaps
+share/pixmaps/volt128.png usr/share/pixmaps
+debian/volt-qt.desktop usr/share/applications
+debian/volt-qt.protocol usr/share/kde4/services/

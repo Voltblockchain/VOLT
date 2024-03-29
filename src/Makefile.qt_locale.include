@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/volt_de.ts \
+  qt/locale/volt_en.ts \
+  qt/locale/volt_en_US.ts \
+  qt/locale/volt_es.ts \
+  qt/locale/volt_es_ES.ts \
+  qt/locale/volt_fr_FR.ts \
+  qt/locale/volt_hr_HR.ts \
+  qt/locale/volt_it.ts \
+  qt/locale/volt_ko_KR.ts \
+  qt/locale/volt_nl.ts \
+  qt/locale/volt_pl.ts \
+  qt/locale/volt_ru.ts \
+  qt/locale/volt_tr.ts \
+  qt/locale/volt_zh_CN.ts

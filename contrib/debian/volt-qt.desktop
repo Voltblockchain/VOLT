@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=VOLT Core
+Comment=VOLT P2P Cryptocurrency
+Comment[fr]=VOLT, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=VOLT, eşten eşe kriptografik sanal para birimi
+Exec=volt-qt %u
+Terminal=false
+Type=Application
+Icon=volt128
+MimeType=x-scheme-handler/volt;
+Categories=Office;Finance;
+StartupWMClass=VOLT-qt
